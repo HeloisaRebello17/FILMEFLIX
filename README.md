@@ -22,4 +22,4 @@
 
     Owl Carousel: https://owlcarousel2.github.io/OwlCarousel2/docs/started-welcome.html
 
-Heloísa Rebello Cabral e Clara Vasc
+Heloísa Rebello Cabral e Clara Pietra Viana Vasconcelos
