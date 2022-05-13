@@ -1,0 +1,42 @@
+body{
+    background-color: #807D7D;
+    border: 2px  solid black;
+    box-sizing: border-box;
+}
+img {
+    width: 400px;
+    height: 330px;
+    border: 2px solid black;
+    
+}
+.br{
+    border: 2px 
+}
+img.face{
+
+    float: left;
+    
+    border: transparent thin solid;
+    
+    padding: 5px;
+    
+    margin: 0px 10px 10px 0;
+    
+    max-width: 186px;
+    
+    }
+.foto{
+    text-align: center;
+    width: auto;
+    margin: 0 auto;
+    padding: 0px;
+}
+h1{
+  font-size: 20px;
+font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.Tela-Principal{color: green;}
+.Cancelar{color: #c0392b;}
+
